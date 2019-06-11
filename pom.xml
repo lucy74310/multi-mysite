@@ -34,5 +34,6 @@
 	</build>
 	<modules>
 		<module>multi-mysite1</module>
+		<module>multi-mysite2</module>
 	</modules>
 </project>
